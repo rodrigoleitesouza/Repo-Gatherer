@@ -6,7 +6,7 @@ App mobile para armazenar e organizar usuários do GitHub e seus repositórios p
 
 ### `Como iniciar?`
 
-Defina em seu terminal o diretório do aplicativo e digite "*yarn run react-native run-android*".
+Defina em seu terminal o diretório "Project" e digite "*yarn run react-native run-android*".
 
 ### `Como usar?`
 
