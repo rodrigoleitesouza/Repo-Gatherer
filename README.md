@@ -4,6 +4,15 @@
 
 App mobile para armazenar e organizar usuários do GitHub e seus repositórios públicos.
 
+### `Tecnologias`
+
+- React Native;
+- React Navigation;
+- Axios;
+- Async-Storage;
+- Reactotron;
+- Styled-Components.
+
 ### `Como iniciar?`
 
 Defina em seu terminal o diretório "*Project*" e digite "*yarn run react-native run-android*".
